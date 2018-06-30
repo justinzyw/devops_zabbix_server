@@ -7,3 +7,5 @@ ENV MYSQL_USER=admin
 ENV MYSQL_PASSWORD=zaq12wsx
 
 ENV MYSQL_DATABASE=zabbix
+
+VOLUME /etc/zabbix
